@@ -1,0 +1,10 @@
+.service {
+    display: flex;
+    justify-content: center;
+}
+.menu {
+    padding: 50px;
+    /*background-color: #fbb034;*/
+}
+
+/* end of Menu */

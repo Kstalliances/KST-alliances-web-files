@@ -1,0 +1,12 @@
+.navbar {
+    border-bottom: 2px solid #fbb034;
+}
+
+.nav-link{
+    color: #00bce4;
+}
+
+.nav-link:hover{
+    color: #037ef3;
+    /*background-color: #037ef3;*/
+}
